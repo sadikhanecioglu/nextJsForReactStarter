@@ -1,0 +1,2 @@
+# nextJsForReactStarter
+nextJsForReactStarter
